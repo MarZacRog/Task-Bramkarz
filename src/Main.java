@@ -19,6 +19,4 @@ public class Main {
                 System.out.println("You won a free shot - go to the bar!");
         }
 
-
-
 }}}
